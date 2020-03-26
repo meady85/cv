@@ -1,0 +1,145 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514e;
+}
+
+h1 {
+  color: #66bfbf;
+  font-size: 5.625rem;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+
+}
+
+h2 {
+  color: #66bfbf;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  padding-bottom: 10px;
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999e;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.profile {
+  width: 30%;
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+p {
+  line-height: 1.5
+}
+
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.skill-row {
+  width: 30%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.footer-link {
+  color: #11999e;
+
+}
+
+.top-container {
+  background-color: #d4f8e8;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 50px auto;
+}
+
+.bottom-container {
+  color: #11999e;
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+
+.design-icon {
+  width: 20%;
+  float: left;
+  margin-right: 20px;
+}
+
+.bowling-icon {
+  width: 20%;
+  float: right;
+  margin-left: 20px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+  color: white;
+  margin: auto;
+  border: none;
+  padding: 15px 20px;
+  border-radius: 8px;
+  background-color: #66bfbf;
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'Montserrat', sans-serif;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.btn:hover {
+  background-color: #11999E;
+  color: white;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+a {
+  color: white;
+  font-family: 'Merriweather', serif;
+  margin: auto 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.cr {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+  margin: 20px auto 10px auto;
+}
